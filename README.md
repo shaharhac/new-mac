@@ -48,7 +48,21 @@ For broswing and web developing im using [chrome](https://www.google.com/chrome/
 * [Vue.js devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) - debugging tools for Vue js 
 
 
-##Quick Luanching
+## Quick Luanching
+
+### Raycast
+
+[Raycast](https://www.raycast.com/) is my favorite tool on the list and the backbone of my prodactivity. Raycast is an all-in-one quick launcher, which lets do practically everything from its command line. problems i solve with Raycast:
+
+ * Opening everything (app, sites, files)
+ * Cliboard history manager
+ * Calculator
+ * Window managment
+ * Adding quick tasks to Todoist
+ * Adding quick notes to obsidian
+ * Glancing on my Jira Tickets
+ * Bluetooth management
+ * File search
 
 * Raycast
   * Raycast configurations && hotkeys
