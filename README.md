@@ -33,7 +33,7 @@ MacOs comes with `zsh` as a default shell, which is what im using. im also using
 
 ## Broswer
 
-For broswing and web developing im using [chrome](https://www.google.com/chrome/). currently considring alternatives like [Arc](https://thebrowser.company/) (DM me for invatations) and [SigmaOS](https://sigmaos.com/). Both also supports all the extenstions below.
+For broswing and web developing im using [chrome](https://www.google.com/chrome/). currently considring alternatives like [Arc](https://thebrowser.company/) (DM me for invites) and [SigmaOS](https://sigmaos.com/). Both also supports all the extenstions below.
 
 ### Chrome Extentions
 
@@ -45,7 +45,7 @@ For broswing and web developing im using [chrome](https://www.google.com/chrome/
 * [News Feed Eradicator](https://chrome.google.com/webstore/detail/news-feed-eradicator/fjcldmjmjhkklehbacihaiopjklihlgg?hl=en) - cancels the feed of the most popular social media platforms
 * [NordVpn](https://chrome.google.com/webstore/detail/nordvpn-vpn-proxy-for-pri/fjoaledfpmneenckfbpdfhkmimnjocfa?hl=en) - my favorite VPN
 * [Video Speed Controller](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk) - allows you to control the speed of any video on the internet. a live saver.
-* [Vue.js devtools]() -
+* [Vue.js devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) - debugging tools for Vue js 
 
 
 ##Quick Luanching
