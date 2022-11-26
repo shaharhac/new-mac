@@ -1,21 +1,34 @@
 # New Mac
 a detailed guide on how to setup a new mac, including my day-to-day software of choise, preferred settings and more.
 
-* Table of Contents
-  * 
-  * 
-  *
+## Table of Contents
 
-## Utilities
+- [⚒️ Utilities](#-Utilities)
+ - [🍺 Homebrew](#-Homebrew)
+ - [🐚 Terminal and Shell](#-Terminal-&-Shell)
+- [👨‍💻 Workflow](#-Workflow)
+ - [🌐 Browser](#-Browser)
+  - Chrome
+   - Extenstions
+  - SigmaOS
+  - Arc
+ - [🚀 Quick Launcher](#-Quick-Launcher)
+ - [📝 Note Taking](#-Note-Taking)
+ - [📝 Read it Later](#-Read-it-Later)
+ - [🤔 Other Apps i Use](#-Other-Apps-i-Use)
+ - [⚙️ Settings](#-Settings)
 
-### Homebrew
+
+## ⚒️ Utilities
+
+### 🍺 Homebrew
 [Homebrow](https://brew.sh) a package manager for macOS, allow us to install tools directly from the command line
 
 ```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
-### Terminal && Shell
+### 🐚 Terminal & Shell
 My terminal of choise is [Hyper](https://hyper.is)
 
 ```bash
@@ -29,9 +42,9 @@ MacOs comes with `zsh` as a default shell, which is what im using. im also using
 * starship
 
 
-# Must Haves
+# 👨‍💻 Workflow
 
-## Broswer
+## 🌐 Broswer
 
 For broswing and web developing im using [chrome](https://www.google.com/chrome/). currently considring alternatives like [Arc](https://thebrowser.company/) (DM me for invites) and [SigmaOS](https://sigmaos.com/). Both also supports all the extenstions below.
 
@@ -48,7 +61,7 @@ For broswing and web developing im using [chrome](https://www.google.com/chrome/
 * [Vue.js devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) - debugging tools for Vue js 
 
 
-## Quick Luanching
+## 🚀 Quick Launcher
 
 ### Raycast
 
@@ -68,26 +81,23 @@ For broswing and web developing im using [chrome](https://www.google.com/chrome/
   * Raycast configurations && hotkeys
   * Raycast plugins
 
-## Note Taking
+## 📝 Note Taking
 * Obsidian
   * Obsidian configurations && hotkeys
   * Obsidian core plugins
   * Obsidian community plugins
   * Obsidian Backup, version controling and Saving to Cloud
 
-## Task managment
-* todoist
+## 📚 Read it Later
 
-## Read It Later
-
-## Other App i Use
+## 🤔 Other App i Use
 * rocket (emojis)
 * karabinder
 * slack && discord
 * Bunch?
 * alt-tab
 
-# OS Settings
+# ⚙️ Settings
 
 # Development
 * git
