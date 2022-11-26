@@ -103,23 +103,23 @@ For broswing and web developing im using [chrome](https://www.google.com/chrome/
 
   #### Configurations <a id="Raycast-Configurations"></a>
   
-  #### Raycast Hotkeys
+  #### Hotkeys <a id="Raycast-Hotkeys"></a>
   
-  #### Raycast Plugins
+  #### Plugins <a id="Raycast-Plugins"></a>
 
 ## 📝 Note Taking
 
 ### Obsidian
 
-  #### Obsidian Configurations 
+  #### Configurations <a id="Obsidian-Configurations"></a>
   
-  #### Obsidian Theme
+  #### Theme <a id="Obsidian-Theme"></a>
   
-  #### Obsidian Hotkeys
+  #### Hotkeys <a id="Obsidian-Hotkeys"></a>
   
-  #### Obsidian Core Plugins
+  #### Core Plugins <a id="Obsidian-Core-Plugins"></a>
   
-  #### Obsidian Community Plugins
+  #### Community Plugins <a id="Obsidian-Community-Plugins"></a>
 
 
 ## 📚 Read it Later
