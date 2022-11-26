@@ -4,19 +4,43 @@ a detailed guide on how to setup a new mac, including my day-to-day software of 
 ## Table of Contents
 
 - [⚒️ Utilities](#-Utilities)
- - [🍺 Homebrew](#-Homebrew)
- - [🐚 Terminal and Shell](#-Terminal-&-Shell)
+    - [🍺 Homebrew](#-Homebrew)
+    - [🐚 Terminal and Shell](#-Terminal-and-Shell)
 - [👨‍💻 Workflow](#-Workflow)
- - [🌐 Browser](#-Browser)
-  - Chrome
-   - Extenstions
-  - SigmaOS
-  - Arc
+    - [🌐 Browser](#-Browser)
+        - Chrome
+            - Extenstions
+        - SigmaOS
+        - Arc
  - [🚀 Quick Launcher](#-Quick-Launcher)
+     - [Raycast](#-Raycast)
+         - [Configurations](#Raycast-Configurations)
+         - [Hotkeys](#Raycast-Hotkeys)
+         - [Plugins](#Raycast-Plugins)
  - [📝 Note Taking](#-Note-Taking)
+     - [Obsidian](#-Obsidian)
+         - [Configurations](#Obsidian-Configurations)
+         - [Theme](#Obsidian-Theme)
+         - [Hotkeys](#Obsidian-Hotkeys)
+         - [Core Plugins](#Obsidian-Core-Plugins)
+         - [Community Plugins](#Obsidian-Community-Plugins)
  - [📝 Read it Later](#-Read-it-Later)
+     - [Matter](#-Matter)
  - [🤔 Other Apps i Use](#-Other-Apps-i-Use)
+     - [Rocket](#Rocket)
+     - [Karabinder](#Karabinder)
+     - [Alt Tab](#Alt-Tab)
+     - [Bunch](#Bunch)
  - [⚙️ Settings](#-Settings)
+ - [🖥️ Development](#-Development)
+     - [Git](#Git)
+     - [Node Js](#Node-JS)
+         - [Global Modules](#Global-Modules)
+     - [VS Code](#VS-Code)
+     - [RunJS](#RunJS)
+     - [SQL Ace](#SQL-Ace)
+     - [NoSQLBooster](#NoSQLBooster)
+     - [Postman](#Postman) 
 
 
 ## ⚒️ Utilities
@@ -28,7 +52,7 @@ a detailed guide on how to setup a new mac, including my day-to-day software of 
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
-### 🐚 Terminal & Shell
+### 🐚 Terminal and Shell
 My terminal of choise is [Hyper](https://hyper.is)
 
 ```bash
@@ -44,7 +68,7 @@ MacOs comes with `zsh` as a default shell, which is what im using. im also using
 
 # 👨‍💻 Workflow
 
-## 🌐 Broswer
+## 🌐 Browser
 
 For broswing and web developing im using [chrome](https://www.google.com/chrome/). currently considring alternatives like [Arc](https://thebrowser.company/) (DM me for invites) and [SigmaOS](https://sigmaos.com/). Both also supports all the extenstions below.
 
@@ -77,35 +101,65 @@ For broswing and web developing im using [chrome](https://www.google.com/chrome/
  * Bluetooth management
  * File search
 
-* Raycast
-  * Raycast configurations && hotkeys
-  * Raycast plugins
+  #### Raycast Configurations
+  
+  #### Raycast Hotkeys
+  
+  #### Raycast Plugins
 
 ## 📝 Note Taking
-* Obsidian
-  * Obsidian configurations && hotkeys
-  * Obsidian core plugins
-  * Obsidian community plugins
-  * Obsidian Backup, version controling and Saving to Cloud
+
+### Obsidian
+
+  #### Obsidian Configurations 
+  
+  #### Obsidian Theme
+  
+  #### Obsidian Hotkeys
+  
+  #### Obsidian Core Plugins
+  
+  #### Obsidian Community Plugins
+
 
 ## 📚 Read it Later
 
-## 🤔 Other App i Use
-* rocket (emojis)
-* karabinder
-* slack && discord
-* Bunch?
-* alt-tab
+### Matter
+
+* Readwise?
+
+## 🤔 Other Apps i Use
+
+
+### Rocket
+
+### Karabinder
+
+### Discord
+
+### Alt Tab
+
+### Bunch?
+
 
 # ⚙️ Settings
 
-# Development
-* git
-* node js
-  * global modules
-* vscode
-* runjs
-* SQL Ace
-* NoSQLBooster
-* Postman
+
+# 🖥️ Development
+
+## Git
+
+## Node JS
+
+### Global Modules
+
+## VS Code
+
+## Run JS
+
+## SQL Ace
+
+## NoSQLBooster
+
+## Postman
 
