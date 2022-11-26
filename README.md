@@ -101,7 +101,7 @@ For broswing and web developing im using [chrome](https://www.google.com/chrome/
  * Bluetooth management
  * File search
 
-  #### Raycast Configurations
+  #### Configurations {#Raycast-Configurations}
   
   #### Raycast Hotkeys
   
