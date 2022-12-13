@@ -111,6 +111,10 @@ For broswing and web developing im using [chrome](https://www.google.com/chrome/
 
 ### Obsidian
 
+[Obsidian](https://obsidian.md/) is a powerfull and versitle note-taking app. I use it for partically anything, and i practiaclly run my life in it.
+the fact that it's using a local-first approach and is based on the markdown syntax (like this very file!),
+enusre that my personal notes will ever be mine, and will ever be readable (future proof!)
+
   #### Configurations <a id="Obsidian-Configurations"></a>
   
   #### Theme <a id="Obsidian-Theme"></a>
@@ -124,9 +128,14 @@ For broswing and web developing im using [chrome](https://www.google.com/chrome/
 
 ## 📚 Read it Later
 
-### Matter
+read-it-later apps are applications that allows users to save web pages, documents, articles, tweets and videos to read it in a later time.
+i often come across some intersting piece of content that i have no time to read and take notes on it at the moment,
+or i dont get any value from it right away but i know i will someday.
+im currently in the process of moving between apps. my previous go-to app was [Matter](https://hq.getmatter.com/) and now moving to [Readwise Reader](https://readwise.io/read) (it is now in closed beta, but it will probably be public at the time someone will actually read what i have to say)
 
-* Readwise?
+### Readwise Reader
+
+### Matter
 
 ## 🤔 Other Apps i Use
 
