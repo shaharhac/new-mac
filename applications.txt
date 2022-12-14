@@ -12,3 +12,5 @@ runjs
 sequel-ace
 nosqlbooster-for-mongodb
 postman
+discord
+slack
