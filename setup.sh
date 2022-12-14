@@ -10,3 +10,8 @@ xcode-select --install
 
 APPS="./applications.txt"
 cat "$APPS" | xargs brew cask install
+
+# install formulaes
+
+FORMULAES="./formulaes.txt"
+cat "$FORMULAES" | xargs brew install
