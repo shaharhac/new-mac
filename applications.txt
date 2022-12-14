@@ -1,0 +1,14 @@
+google-chrome
+sigmaos
+hyper
+raycast
+obsidian
+rocket
+karabiner-elements
+alt-tab
+bunch
+visual-studio-code
+runjs
+sequel-ace
+nosqlbooster-for-mongodb
+postman
