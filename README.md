@@ -28,7 +28,7 @@ a detailed guide on how to setup a new mac, including my day-to-day software of 
      - [Matter](#-Matter)
  - [🤔 Other Apps i Use](#-Other-Apps-i-Use)
      - [Rocket](#Rocket)
-     - [Karabinder](#Karabinder)
+     - [Karabiner](#Karabiner)
      - [Alt Tab](#Alt-Tab)
      - [Bunch](#Bunch)
  - [⚙️ Settings](#-Settings)
@@ -142,14 +142,25 @@ im currently in the process of moving between apps. my previous go-to app was [M
 
 ### Rocket
 
-### Karabinder
+[Rocket](https://matthewpalmer.net/rocket/) provides useful shortcuts for inserting emojies to your text. saved me a couple minutes of my life already.
+
+### Karabiner
+
+[karabiner](https://karabiner-elements.pqrs.org/) lets you re-map some keys in you keyboard. personally, i use it for a single reason - re-mapping my `tab` key to `shift+ctrl+command+option` so it will act as another key i could map shortcuts and hotkeys to. it's also ensures me that no another hotkey will override
+my custom ones, becuase no app will do this key combination.
 
 ### Discord
 
+[Discord](https://discord.com/) is like slack but it won't make you want to poke your eyes with a fork.
+
 ### Alt Tab
+
+[Alt Tab](https://alt-tab-macos.netlify.app/) bring the lovable "alt tab" mechanism from windows to mac. it will also show you a preview of the window before you'll switch to it.
 
 ### Bunch?
 
+[Bunch](https://bunchapp.co/) is an app i currenly toying with. it allows you to create automations across your apps. even though it's should be my favorite
+app of all time, im not completely sold on this one. needs more playing time with it.
 
 # ⚙️ Settings
 
