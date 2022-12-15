@@ -132,6 +132,8 @@ read-it-later apps are applications that allows users to save web pages, documen
 i often come across some intersting piece of content that i have no time to read and take notes on it at the moment,
 or i dont get any value from it right away but i know i will someday.
 im currently in the process of moving between apps. my previous go-to app was [Matter](https://hq.getmatter.com/) and now moving to [Readwise Reader](https://readwise.io/read) (it is now in closed beta, but it will probably be public at the time someone will actually read what i have to say)
+(after i finished writing this i realized both are SAAS apps, but i think it's still worth a mention)
+
 
 ### Readwise Reader
 
