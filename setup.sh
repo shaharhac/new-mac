@@ -15,3 +15,6 @@ cat "$APPS" | xargs brew cask install
 
 FORMULAES="./formulaes.txt"
 cat "$FORMULAES" | xargs brew install
+
+
+# create `dev` directory
