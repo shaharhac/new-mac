@@ -181,5 +181,7 @@ app of all time, im not completely sold on this one. needs more playing time wit
 
 ## NoSQLBooster
 
+while everyone around me using studio 3t as a client for mongo, my go-to client for mongodb is [NoSqlBooster](https://nosqlbooster.com/). i find it's gui really cofterable and i got used to it.
+
 ## Postman
 
