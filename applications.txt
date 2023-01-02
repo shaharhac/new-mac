@@ -14,3 +14,4 @@ nosqlbooster-for-mongodb
 postman
 discord
 slack
+azure-data-studio
