@@ -18,3 +18,4 @@ cat "$FORMULAES" | xargs brew install
 
 
 # create `dev` directory
+mkdir ~/Documents/dev
