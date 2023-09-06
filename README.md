@@ -1,5 +1,5 @@
 # New Mac
-a detailed guide on how to setup a new mac, including my day-to-day software of choise, preferred settings and more.
+a detailed guide on how to set up a new Mac, including my day-to-day software of choice, preferred settings, and more.
 
 ## Table of Contents
 
@@ -89,12 +89,12 @@ For broswing and web developing im using [chrome](https://www.google.com/chrome/
 
 ### Raycast
 
-[Raycast](https://www.raycast.com/) is my favorite tool on the list and the backbone of my prodactivity. Raycast is an all-in-one quick launcher, which lets do practically everything from its command line. problems i solve with Raycast:
+[Raycast](https://www.raycast.com/) is my favorite tool on the list. Raycast is an all-in-one quick launcher, which lets you do practically everything from its command line. problems I solve with Raycast:
 
  * Opening everything (app, sites, files)
  * Cliboard history manager
  * Calculator
- * Window managment
+ * Window management
  * Adding quick tasks to Todoist
  * Adding quick notes to obsidian
  * Glancing on my Jira Tickets
@@ -111,9 +111,9 @@ For broswing and web developing im using [chrome](https://www.google.com/chrome/
 
 ### Obsidian
 
-[Obsidian](https://obsidian.md/) is a powerfull and versitle note-taking app. I use it for partically anything, and i practiaclly run my life in it.
-the fact that it's using a local-first approach and is based on the markdown syntax (like this very file!),
-enusre that my personal notes will ever be mine, and will ever be readable (future proof!)
+[Obsidian](https://obsidian.md/) is a powerful and versatile note-taking app. I use it for almost anything.
+the fact that it's using a local-first approach and is based on the markdown syntax,
+ensures that my notes will ever be mine, and will ever be readable (future proof!)
 
   #### Configurations <a id="Obsidian-Configurations"></a>
   
@@ -128,11 +128,11 @@ enusre that my personal notes will ever be mine, and will ever be readable (futu
 
 ## 📚 Read it Later
 
-read-it-later apps are applications that allows users to save web pages, documents, articles, tweets and videos to read it in a later time.
-i often come across some intersting piece of content that i have no time to read and take notes on it at the moment,
-or i dont get any value from it right away but i know i will someday.
-im currently in the process of moving between apps. my previous go-to app was [Matter](https://hq.getmatter.com/) and now moving to [Readwise Reader](https://readwise.io/read) (it is now in closed beta, but it will probably be public at the time someone will actually read what i have to say)
-(after i finished writing this i realized both are SAAS apps, but i think it's still worth a mention)
+Read-it-later apps are applications that allow users to save web pages, documents, articles, tweets, and videos to read in a later time.
+I often come across some interesting pieces of content that I have no time to read and take notes on it at the moment,
+or I don't get any value from it right away but I know I will someday.
+I'm currently in the process of moving between apps. My previous go-to app was [Matter](https://hq.getmatter.com/) but now days I'm using [Readwise Reader](https://readwise.io/read) which is perfect.
+(after I finished writing this I realized both are SAAS apps, but I think it's still worth a mention)
 
 
 ### Readwise Reader
@@ -141,27 +141,26 @@ im currently in the process of moving between apps. my previous go-to app was [M
 
 ## 🤔 Other Apps i Use
 
-
 ### Rocket
 
-[Rocket](https://matthewpalmer.net/rocket/) provides useful shortcuts for inserting emojies to your text. saved me a couple minutes of my life already.
+[Rocket](https://matthewpalmer.net/rocket/) provides quick access to an emoji keyboard. important.
 
 ### Karabiner
 
-[karabiner](https://karabiner-elements.pqrs.org/) lets you re-map some keys in you keyboard. personally, i use it for a single reason - re-mapping my `tab` key to `shift+ctrl+command+option` so it will act as another key i could map shortcuts and hotkeys to. it's also ensures me that no another hotkey will override
-my custom ones, becuase no app will do this key combination.
+[karabiner](https://karabiner-elements.pqrs.org/) lets you re-map some keys in your keyboard. personally, I use it for a single reason - re-mapping my `tab` key to `shift+ctrl+command+option` so it will act as another key I could map shortcuts and hotkeys to. it's also ensures me that no other hotkey will override
+my custom ones, because no app will do this key combination.
 
 ### Discord
 
-[Discord](https://discord.com/) is like slack but it won't make you want to poke your eyes with a fork.
+[Discord](https://discord.com/) is like Slack but it won't make you want to poke your eyes with a fork.
 
 ### Alt Tab
 
-[Alt Tab](https://alt-tab-macos.netlify.app/) bring the lovable "alt tab" mechanism from windows to mac. it will also show you a preview of the window before you'll switch to it.
+[Alt Tab](https://alt-tab-macos.netlify.app/) brings the lovable "alt-tab" mechanism from Windows to Macos. it will also show you a window preview before you switch to it.
 
 ### Bunch?
 
-[Bunch](https://bunchapp.co/) is an app i currenly toying with. it allows you to create automations across your apps. even though it's should be my favorite
+[Bunch](https://bunchapp.co/) is an app I currently toying with. it allows you to create automations across your apps. even though it's should be my favorite
 app of all time, im not completely sold on this one. needs more playing time with it.
 
 # ⚙️ Settings
@@ -183,9 +182,9 @@ app of all time, im not completely sold on this one. needs more playing time wit
 
 ## NoSQLBooster
 
-while everyone around me using studio 3t as a client for mongo, my go-to client for mongodb is [NoSqlBooster](https://nosqlbooster.com/). i find it's gui really cofterable and i got used to it.
+while everyone around me using Studio 3T as a client for MongoDB, my go-to client is [NoSqlBooster](https://nosqlbooster.com/). I find its GUI really comfortable and I got used to it.
 
 ## Postman
 
-[Postman](https://www.postman.com/) is a great collabiration tool for building APIs
+[Postman](https://www.postman.com/) is a great collaboration tool for building APIs
 
